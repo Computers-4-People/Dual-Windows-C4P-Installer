@@ -1,4 +1,4 @@
-# 💿 Dual Windows C4P Setup Image
+# 💿 Dual Windows C4P Setup
 
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%26%2011-blue?style=flat-square)
 ![Made For](https://img.shields.io/badge/Made%20for-Laptop%20Refurbishment-lightgrey?style=flat-square)
