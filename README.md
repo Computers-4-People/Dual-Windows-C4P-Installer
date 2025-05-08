@@ -35,7 +35,7 @@ All required files can be downloaded from this shared folder:
 |                                        | 💿 Pre-configured + Windows CU Updates manually integrated monthly         |
 |                                        | 🚀 Silently installs: Chrome, Edge, Edge WebView2, Visual C++ Redists      |
 |                                        | 🚀 System tweaks: disables password expiration, auto-connects to C4P WiFi  |
-|                                        | 🚀 Automated branding (wallpapers, desktop icons, theming, accent colors)  |
+|                                        | 🚀 Automated theming (wallpapers, desktop icons, branding, accent colors)  |
 |                                        | 🚀 Integrates C4P Pre-Setup Diagnostics on first boot                      |
 
 - 🧊 USB (16GB or larger)
