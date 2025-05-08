@@ -1,4 +1,4 @@
-# 🪟 Dual Windows C4P Setup Image
+# 💿 Dual Windows C4P Setup Image
 
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%26%2011-blue?style=flat-square)
 ![Made For](https://img.shields.io/badge/Made%20for-Laptop%20Refurbishment-lightgrey?style=flat-square)
@@ -30,15 +30,13 @@ All required files can be downloaded from this shared folder:
 |----------------------------------------|-----------------------------------------------------------------------------|
 | `ventoy-1.0.97/`                       | 🧰 Ventoy 1.0.97 installer folder                                          |
 | `ventoy/`                              | 🎨 C4P Ventoy theme folder                                                 |
+| `BitRaser Drive Eraser 3.0.0.7.iso`    | 🧹 BitRaser drive erasure tool with secure wiping standards                |
 | `Dual Windows C4P Setup x64.iso`       | 💿 Dual Windows ISO with Windows 10 Pro + 11 Pro                           |
-                                         | 💿 Pre-configured + Windows CU Updates manually integrated monthly         |
-                                         | 🚀 Auto-installs: Chrome, Edge, Edge WebView2, AIO Visual C++              |
-                                         |     Redistributables by abbodi1406                                          |
-                                         | 🚀 System tweaks - disables password expiration, auto-connects to C4P WiFi |
-                                         | 🚀 Automated branding (wallpapers, desktop icons, theming, accent colors)  |
-                                         | 🚀 Auto-launches C4P Pre-Setup Diagnostics on first boot                   |
-| `BitRaser Drive Eraser 3.0.0.7.iso`    | 🧹 Drive erasure ISO for secure wiping in compliance with NIST 800-88      |
-                                               standards using BitRaser                                                |
+|                                        | 💿 Pre-configured + Windows CU Updates manually integrated monthly         |
+|                                        | 🚀 Silently installs: Chrome, Edge, Edge WebView2, Visual C++ Redists      |
+|                                        | 🚀 System tweaks: disables password expiration, auto-connects to C4P WiFi  |
+|                                        | 🚀 Automated branding (wallpapers, desktop icons, theming, accent colors)  |
+|                                        | 🚀 Integrates C4P Pre-Setup Diagnostics on first boot                      |
 
 - 🧊 USB (16GB or larger)
 - 🔐 Secure Boot must be disabled
