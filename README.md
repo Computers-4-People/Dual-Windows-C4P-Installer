@@ -39,25 +39,29 @@ All required files can be downloaded from this shared folder:
 |                                        | 🚀 Integrates C4P Pre-Setup Diagnostics on first boot                      |
 
 - 🧊 USB (16GB or larger)
-- 🔐 Secure Boot must be disabled
-
 ---
 
 ## 🚀 Setup Guide
 
 ### 🧰 Part 1: Create the Bootable USB
 
-1. In the `ventoy-1.0.97` folder, run `Ventoy2Disk.exe` as **Administrator**  
+1. In the `ventoy-1.0.97` folder, run `Ventoy2Disk.exe` as **Administrator**
+   
 2. Option → Uncheck `Secure Boot support`
+   
 3. Option → Partition style → `GPT`
+   
 4. Option → Partition Configuration → `exFAT` or `NTFS`
-5. Insert USB → Select it in the drop down → Click **Install**  
+   
+5. Insert USB → Select it in the drop down → Click **Install**
+    
 6. Copy the following to the **root of the USB**:
    - `Dual Windows C4P Setup x64.iso`
    - `BitRaser Drive Eraser 3.0.0.7.iso`
    - `ventoy` folder (C4P theme)
 
 7. To do this for multiple USB drives, repeat step 5.
+   
 ---
 
 ### 🔧 Part 2: Configure the BIOS
@@ -94,12 +98,12 @@ All required files can be downloaded from this shared folder:
 2. Choose **BitRaser - Safe Mode**
 
 3. Verify licenses show in the bottom right corner (WiFi must be connected, if not, click the gear in the top right corner and connect)
-4. Select drive(s) to erase (⚠️ **NEVER select the USB**)
+4. Select drive(s) to erase (⚠️**NEVER select the USB**⚠️)
 
 5. Fill out required fields:
    - Technician Name (C4P staff only)
    - C4P Barcode (Asset Tag)
-   - Donor ID (from Zoho)
+   - Donor ID (from Zoho Creator)
 
 6. Click **Erase** → Confirm prompts  
    *(SED Drives: Click Erase → Close → Confirm)*
@@ -131,14 +135,14 @@ All required files can be downloaded from this shared folder:
 2. When the desktop loads, wait for a message box that says:
 
 
-SetUserFTA Personal Edition
+**"SetUserFTA Personal Edition**
 
 
-Hi again! Thanks for using SetUserFTA Personal Edition.
+**Hi again! Thanks for using SetUserFTA Personal Edition.**
 
-Just a friendly reminder that this program is free, and showing this message every 10th run helps us keep it that way. 
+**Just a friendly reminder that this program is free, and showing this message every 10th run helps us keep it that way.**
 
-Thank you for your support!
+**Thank you for your support!"**
 
 
 → and Click **OK**.
