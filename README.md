@@ -12,11 +12,29 @@ The **Dual Windows C4P Installer** is a custom-built Windows ISO that includes b
 
 ## 💡 Key Features
 
-- ✅ **Dual OS Support**: Pick Windows 10 or 11 during install
-- ⚡ **Unattended Setup**: Includes apps, branding, network config, and diagnostics
-- 🛠️ **Integrated Diagnostics**: C4P Pre/Post Setup Diagnostic Tools built-in
-- 🎨 **Custom C4P Theme**: Wallpaper, icons, and color tweaks
-- 🧼 **Automatic Clean-Up**: Prepares device for donation after diagnostics
+💿 Dual Windows Installer
+- Bundles Windows 10 and Windows 11 into a single ISO. The user chooses the appropriate version during setup based on CPU generation.
+
+⚙️ Unattended, Pre-Configured Setup
+- Fully automated install with:
+- Silent app installation (Chrome, Edge, WebView2, VC++ Redists)
+- Auto-connects to C4P WiFi (if available)
+- Disables password expiration policies
+- Applies system branding (wallpapers, desktop icons, accent color)
+
+🧰 Integrated Diagnostics Workflow
+- Includes both Pre-Setup and Post-Setup diagnostic tools to verify:
+- Battery, keyboard, screen, ports, camera/mic, Windows Activation, and more
+- Generates a Passed.txt report with diagnostic test results, system specs and quality assurance confirmation
+
+🧼 One-Click Clean-Up & Finalization
+- Removes all setup files such as diagnostic tools, scripts, logs, desktop icons, etc., applies system tweaks, and prepares device for first use or donation — no extra configuration needed.
+
+🎨 Custom C4P Theming
+- Includes bootloader theme (via Ventoy), Computers 4 People wallpaper during Windows setup, and UI enhancements (accent color, dark mode) for a polished, professional look.
+
+🔁 Efficient, Repeatable Workflow
+- Designed for refurbishing at scale with Ventoy — easily used to prepare multiple USB drives for parallel installations.
 
 ---
 ## 🛠️ Requirements
