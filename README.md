@@ -7,8 +7,6 @@
 The **Dual Windows C4P Installer** is a custom-built Windows ISO that includes both **Windows 10** and **Windows 11** in a single setup. Designed for the Computers 4 People team to streamline deployment, quality assurance, and donation readiness using automation, pre-installed tools, and smart configuration.
 
 > 🛠️ Made with: NTLite, Batch & PowerShell scripting
-> 🛠️ Made by: Arnold Ssemuyaga
-
 ---
 
 ## 💡 Key Features
