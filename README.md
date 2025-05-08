@@ -14,7 +14,7 @@ The **Dual Windows C4P Installer** is a custom-built Windows ISO that includes b
 
 - ✅ **Dual OS Support**: Pick Windows 10 or 11 during install
 - ⚡ **Unattended Setup**: Includes apps, branding, network config, and diagnostics
-- 🛠️ **Integrated Diagnostics**: C4P Pre/Post Setup Tools built-in
+- 🛠️ **Integrated Diagnostics**: C4P Pre/Post Setup Diagnostic Tools built-in
 - 🎨 **Custom C4P Theme**: Wallpaper, icons, and color tweaks
 - 🧼 **Automatic Clean-Up**: Prepares device for donation after diagnostics
 
