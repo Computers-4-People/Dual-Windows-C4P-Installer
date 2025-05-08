@@ -181,13 +181,6 @@ All required files can be downloaded from this shared folder:
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).  
-Windows operating systems and BitRaser are licensed separately.
-
----
-
 ## 🙌 Credits
 
 Built and maintained by **Arnold Ssemuyaga**  
