@@ -4,9 +4,10 @@
 ![Made For](https://img.shields.io/badge/Made%20for-Laptop%20Refurbishment-lightgrey?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen?style=flat-square)
 
-The **Dual Windows C4P Installer** is a custom-built Windows ISO that includes both **Windows 10** and **Windows 11** in a single setup. It’s designed for IT technicians, nonprofits, and refurbishers to streamline deployment, quality assurance, and donation readiness using automation, pre-installed tools, and smart configuration.
+The **Dual Windows C4P Installer** is a custom-built Windows ISO that includes both **Windows 10** and **Windows 11** in a single setup. Designed for the Computers 4 People team to streamline deployment, quality assurance, and donation readiness using automation, pre-installed tools, and smart configuration.
 
 > 🛠️ Made with: NTLite, Batch & PowerShell scripting
+> 🛠️ Made by: Arnold Ssemuyaga
 
 ---
 
